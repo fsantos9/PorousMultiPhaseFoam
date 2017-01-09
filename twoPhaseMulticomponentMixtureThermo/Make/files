@@ -1,0 +1,3 @@
+twoPhaseMulticomponentMixtureThermo.C
+
+LIB = $(FOAM_LIBBIN)/libtwoPhaseMulticomponentMixtureThermo
